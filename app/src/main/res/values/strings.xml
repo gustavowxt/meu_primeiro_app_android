@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Login Teste</string>
+    <string name="titulo_tela_de_login">Login</string>
+    <string name="meu_subtitulo">Acesso a sua conta</string>
+    <string name="digite_email">Digite seu e-mail</string>
+    <string name="senha">Digite sua senha</string>
+    <color name="minha_cor_principal">#4CAF50</color>
+</resources>
